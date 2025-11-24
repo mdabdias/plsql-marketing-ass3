@@ -39,12 +39,16 @@ This project satisfies all requirements of a PL/SQL Collections & Records assign
 ## 📂 Folder Structure
 
 plsql-marketing-performance/
+
 │
 ├── src/
+
 │ └── marketing.sql
 │
 ├── docs/
+
 │ ├── overview.md
+
 │ └── explanation.md
 
 
