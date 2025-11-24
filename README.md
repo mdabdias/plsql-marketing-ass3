@@ -101,9 +101,13 @@ It includes all:
 ## 🖥 Example Output
 
 ---- PRODUCT PERFORMANCE REPORT ------
+
 Product ID: 301
+
 Name: Smartphone X1
+
 Total Monthly Sales: 730
+
 Campaigns Used:
 
 - Instagram Ads
